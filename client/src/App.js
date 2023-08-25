@@ -3,7 +3,7 @@ import {BrowserRouter,Routes,Route} from 'react-router-dom'
 import Create from './pages/Create';
 import Update from './pages/Update';
 import User from './pages/User';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap';
 import Signup from './pages/Signup';
 import Login from './pages/Login';
 
