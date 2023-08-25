@@ -5,6 +5,7 @@ import Update from './pages/Update';
 import User from './pages/User';
 import Signup from './pages/Signup';
 import Login from './pages/Login';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
